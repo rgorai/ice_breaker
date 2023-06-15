@@ -23,7 +23,6 @@ def linkedin_lookup_agent(name: str) -> str:
         agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
         verbose=True,
     )
-
     prompt_template = PromptTemplate(
         template=template, input_variables=["name_of_person"]
     )
