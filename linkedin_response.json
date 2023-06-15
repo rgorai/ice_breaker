@@ -1,0 +1,299 @@
+{
+	"public_identifier": "rgorai",
+	"profile_pic_url": "https://media.licdn.com/dms/image/C4D03AQF-e59_PbAbmg/profile-displayphoto-shrink_800_800/0/1647971858399?e=1692230400&v=beta&t=5MB78CQVBj_aJAsCp9vDoChHtT4SP5ym4y_U9VjhKv0",
+	"background_cover_image_url": null,
+	"first_name": "Ron",
+	"last_name": "Gorai",
+	"full_name": "Ron Gorai",
+	"follower_count": null,
+	"occupation": "Founding Full-Stack Engineer at LISDIN",
+	"headline": "Founding Full-Stack Engineer @ LISDIN | Google DSC Lead @ Stevens",
+	"summary": "Advanced proficiency in TypeScript, React, NodeJS, Python, Java, C/C++, and more. Please visit my website, www.rongorai.com, for more information!",
+	"country": "US",
+	"country_full_name": "United States of America",
+	"city": "Hoboken",
+	"state": "New Jersey",
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2022
+		},
+		"ends_at": null,
+		"company": "LISDIN",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/lisdin/",
+		"title": "Founding Full-Stack Engineer",
+		"description": "\u2022 Develop a strategy in close coordination with company owner to build a scalable, market-ready product for at least 100,000 users\n\u2022 Spearhead the development of our full-stack web application using React + TS, Redux, Node.js, Express, JWT, MongoDB, MUI, and more\n\u2022 Applied techniques like modularization, responsiveness, and recursion, and (de)normalization and indexing to the front and back ends",
+		"location": null,
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2023
+		},
+		"company": "Google Developer Student Clubs @ Stevens Institute of Technology",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/gdsc-stevens/",
+		"title": "Lead",
+		"description": "\u2022 Organized and hosted 5 events and counting for students to learn and practice Google technologies, programming, job searching\n\u2022 Networked with industry experts to bring interesting, professional content to 200+ students at Stevens",
+		"location": "Hoboken, New Jersey, United States",
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQGCr4ryE0nGUQ/company-logo_400_400/0/1661134242181?e=1694649600&v=beta&t=XpnHjijOXs6LhXD8m-CnxQM-VBi0Kt4cJhyUnvfSz5c"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2022
+		},
+		"company": "Stevens Institute of Technology",
+		"company_linkedin_profile_url": "https://www.linkedin.com/school/stevens-institute-of-technology/",
+		"title": "Web Programming I - Graduate Course Assistant",
+		"description": "\u2022 Tutored students in course topics such as JavaScript, Express, MongoDB, and much more\n\u2022 Thoroughly graded final projects with a penetration-testing mindset",
+		"location": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4-wgic6mvtQ/company-logo_400_400/0/1659965758092?e=1694649600&v=beta&t=-gbQKatSv0_uRFlNiUwfDLXK_CNSf1dWZgVgb0otKXw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2021
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2021
+		},
+		"company": "Stevens Institute of Technology",
+		"company_linkedin_profile_url": "https://www.linkedin.com/school/stevens-institute-of-technology/",
+		"title": "Introduction to Computer Science - Undergraduate Course Assistant",
+		"description": "\u2022 Tutored students in course topics such as recursion, memoization, and dynamic programming\n\u2022 Conducted labs to train students on topics covered in lecture with Python",
+		"location": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4-wgic6mvtQ/company-logo_400_400/0/1659965758092?e=1694649600&v=beta&t=-gbQKatSv0_uRFlNiUwfDLXK_CNSf1dWZgVgb0otKXw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2021
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2021
+		},
+		"company": "Stevens Institute of Technology",
+		"company_linkedin_profile_url": "https://www.linkedin.com/school/stevens-institute-of-technology/",
+		"title": "Systems Programming - Undergraduate Course Assistant",
+		"description": "\u2022 Tutored students in course topics such as system calls, concurrent programming, and sockets \n\u2022 Helped students in understanding Bash and C\n\u2022 Assessed students with exams written by the professor and self-designed lab assignments",
+		"location": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4-wgic6mvtQ/company-logo_400_400/0/1659965758092?e=1694649600&v=beta&t=-gbQKatSv0_uRFlNiUwfDLXK_CNSf1dWZgVgb0otKXw"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"company": "NeuraFlash",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/neuraflash/",
+		"title": "Software Developer",
+		"description": "\u2022 Rebuilt an internal tool using React + TS to help 20+ Einstein Bot developers create JSON payloads to enhance their bots\u2019 UI\n\u2022 Reduced codebase size by over 1000 lines by inventing a recursive component to dynamically generate forms for different payloads\n\u2022 Decreased potential future development time by over 50% by devising an object-based generation key/value syntax\n\u2022 Constructed 4 SalesForce Objects, Apex classes, and LWCs to provide voting and feedback functionality on various company records",
+		"location": "Hoboken, New Jersey, United States",
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQE_-j2PYyydCg/company-logo_400_400/0/1675869756430?e=1694649600&v=beta&t=Ah60k_bPB5nRXeLr1kRWwRCw6kJVIcdz9nTwnSQedrY"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2021
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2021
+		},
+		"company": "IBM",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+		"title": "Front-End Developer",
+		"description": "\u2022 Produced 3 UI components with React + JS and patched 5+ bugs from existing components\n\u2022 Utilized Python and Swagger to test 15+ JSON payloads and improve backend API error handling by at least 5%\n\u2022 Developed 5 unit and integration tests with Cypress and wrote detailed documentation for others to do the same\n\u2022 Decreased deployment time by 5% by constructing a continuous integration pipeline using Travis CI and Cypress",
+		"location": "United States",
+		"logo_url": "https://media.licdn.com/dms/image/D560BAQFLP1X4hP2weg/company-logo_400_400/0/1686250330457?e=1694649600&v=beta&t=eB4tUTMYnJB7SFA4GPsypr4crk6RKYxdKdURqotGxd0"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 2,
+			"year": 2020
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2021
+		},
+		"company": "ZAIS Group",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/zaisgroup/",
+		"title": "Technology and Analytics Developer ",
+		"description": "\u2022 Wrote Python scripts to scrape ESG data from 20+ client websites for our asset management team\n\u2022 Created parser functions to translate JSON server data into UI components with ReactTS\n\u2022 Built 5+ UI components for an asset management console from Figma designs using JSX and Sass\n\u2022 Conducted user integration and E2E testing with Cypress",
+		"location": "Holmdel, New Jersey, United States",
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQHa2-BJ0UWvWA/company-logo_400_400/0/1519897283423?e=1694649600&v=beta&t=ArXI6v-WWCr4UDrfGrRvc5fmw6mqrpG8HVRBisiVuhY"
+	}],
+	"education": [{
+		"starts_at": null,
+		"ends_at": null,
+		"field_of_study": "Computer Science",
+		"degree_name": "Bachelor of Science - BS",
+		"school": "Stevens Institute of Technology",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4-wgic6mvtQ/company-logo_400_400/0/1659965758092?e=1694649600&v=beta&t=-gbQKatSv0_uRFlNiUwfDLXK_CNSf1dWZgVgb0otKXw",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": null,
+		"ends_at": null,
+		"field_of_study": "Cybersecurity ",
+		"degree_name": "Minor",
+		"school": "Stevens Institute of Technology",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQG4-wgic6mvtQ/company-logo_400_400/0/1659965758092?e=1694649600&v=beta&t=-gbQKatSv0_uRFlNiUwfDLXK_CNSf1dWZgVgb0otKXw",
+		"grade": null,
+		"activities_and_societies": null
+	}],
+	"languages": [],
+	"accomplishment_organisations": [],
+	"accomplishment_publications": [],
+	"accomplishment_honors_awards": [],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [{
+		"name": "Algorithms",
+		"number": null
+	}, {
+		"name": "Automata and Computation",
+		"number": null
+	}, {
+		"name": "Computer Architecture",
+		"number": null
+	}, {
+		"name": "Computer Organization and Programming",
+		"number": null
+	}, {
+		"name": "Data Structures",
+		"number": null
+	}, {
+		"name": "Discrete Mathematics for Cryptography",
+		"number": null
+	}, {
+		"name": "Discrete Structures",
+		"number": null
+	}, {
+		"name": "Foundations for Cryptography",
+		"number": null
+	}, {
+		"name": "Operating Systems",
+		"number": null
+	}, {
+		"name": "Programming Languages",
+		"number": null
+	}, {
+		"name": "Software Development Process",
+		"number": null
+	}, {
+		"name": "Systems Programming",
+		"number": null
+	}, {
+		"name": "Web Programming I",
+		"number": "CS 546"
+	}, {
+		"name": "Web Programming II",
+		"number": "CS 554"
+	}],
+	"accomplishment_projects": [],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [],
+	"certifications": [],
+	"connections": null,
+	"people_also_viewed": [{
+		"link": "https://www.linkedin.com/in/jared-kronyak",
+		"name": "Jared Kronyak",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/urvashi-babbar-227861131",
+		"name": "Urvashi Babbar",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/snehalhosmani",
+		"name": "Snehal Hosmani",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/ryan-gallagher-1a6a37190",
+		"name": "Ryan Gallagher",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/erisaterolli",
+		"name": "Erisa Terolli",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/mahesh-dhondge-b83ab3126",
+		"name": "Mahesh Dhondge",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/pratiksha-naik12",
+		"name": "Pratiksha Naik",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/kenneth-jones-630777194",
+		"name": "Kenneth Jones",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/sushantbhat93",
+		"name": "Sushant Bhat",
+		"summary": null,
+		"location": null
+	}, {
+		"link": "https://www.linkedin.com/in/theevilhead",
+		"name": "Girish Patil",
+		"summary": null,
+		"location": null
+	}],
+	"recommendations": [],
+	"activities": [],
+	"similarly_named_profiles": [],
+	"articles": [],
+	"groups": [],
+	"phone_numbers": [],
+	"social_networking_services": [],
+	"skills": ["Continuous Delivery", "Web Development", "Software Deployment", "Amazon Web Services (AWS)", "Software Development", "MongoDB", "Salesforce Lightning", "REST APIs", "TypeScript", "React.js", "SASS", "Vue 3", "GraphQL", "Full-Stack Development", "Express.js", "Software Project Management", "Front-End Development", "Leadership", "Redis", "React Context API"],
+	"inferred_salary": {
+		"min": null,
+		"max": null
+	},
+	"gender": null,
+	"birth_date": null,
+	"industry": null,
+	"extra": {
+		"github_profile_id": null,
+		"twitter_profile_id": null,
+		"facebook_profile_id": null
+	},
+	"interests": [],
+	"personal_emails": [],
+	"personal_numbers": []
+}
